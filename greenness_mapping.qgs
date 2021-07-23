@@ -1,0 +1,1276 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" saveUser="Gwendolyn" saveDateTime="2021-07-11T17:46:54" version="3.16.7-Hannover" saveUserFull="Gwendolyn">
+  <homePath path=""/>
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <trust active="0"/>
+  <projectCrs>
+    <spatialrefsys>
+      <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+      <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+      <srsid>3100</srsid>
+      <srid>32616</srid>
+      <authid>EPSG:32616</authid>
+      <description>WGS 84 / UTM zone 16N</description>
+      <projectionacronym>utm</projectionacronym>
+      <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </projectCrs>
+  <layer-tree-group>
+    <customproperties/>
+    <layer-tree-layer name="1302_1304" providerKey="ogr" patch_size="-1,-1" legend_split_behavior="0" id="1302_1304_961c5aca_c907_4bfd_a747_f7fd99c52251" checked="Qt::Checked" expanded="1" legend_exp="" source="1302_1304.shp|layername=1302_1304">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7" providerKey="gdal" patch_size="-1,-1" legend_split_behavior="0" id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7_50a6b7a4_0019_4dfd_90ac_5aecac75c6fb" checked="Qt::Checked" expanded="1" legend_exp="" source="./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6" providerKey="gdal" patch_size="-1,-1" legend_split_behavior="0" id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6_f7e6c867_5d22_42fb_ab54_501fb630bfa1" checked="Qt::Checked" expanded="1" legend_exp="" source="./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5" providerKey="gdal" patch_size="-1,-1" legend_split_behavior="0" id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5_d5eececf_06a2_4d95_a7fd_7e21e4604054" checked="Qt::Checked" expanded="1" legend_exp="" source="./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4" providerKey="gdal" patch_size="-1,-1" legend_split_behavior="0" id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4_7d596e09_2d00_471d_8c92_a7c2f7656dd3" checked="Qt::Checked" expanded="1" legend_exp="" source="./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3" providerKey="gdal" patch_size="-1,-1" legend_split_behavior="0" id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3_42d2582c_cf1e_48e1_9857_ca91503a7f8f" checked="Qt::Checked" expanded="1" legend_exp="" source="./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2" providerKey="gdal" patch_size="-1,-1" legend_split_behavior="0" id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2_64a8c351_3dd9_47fa_9e0c_bc210d768d15" checked="Qt::Checked" expanded="1" legend_exp="" source="./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1" providerKey="gdal" patch_size="-1,-1" legend_split_behavior="0" id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1_0aaf6f4b_79d8_4ab1_a4a0_5c6ac11c3531" checked="Qt::Checked" expanded="1" legend_exp="" source="./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1.tif">
+      <customproperties/>
+    </layer-tree-layer>
+    <custom-order enabled="0">
+      <item>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1_0aaf6f4b_79d8_4ab1_a4a0_5c6ac11c3531</item>
+      <item>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2_64a8c351_3dd9_47fa_9e0c_bc210d768d15</item>
+      <item>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3_42d2582c_cf1e_48e1_9857_ca91503a7f8f</item>
+      <item>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4_7d596e09_2d00_471d_8c92_a7c2f7656dd3</item>
+      <item>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5_d5eececf_06a2_4d95_a7fd_7e21e4604054</item>
+      <item>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6_f7e6c867_5d22_42fb_ab54_501fb630bfa1</item>
+      <item>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7_50a6b7a4_0019_4dfd_90ac_5aecac75c6fb</item>
+      <item>1302_1304_961c5aca_c907_4bfd_a747_f7fd99c52251</item>
+    </custom-order>
+  </layer-tree-group>
+  <snapping-settings unit="1" intersection-snapping="0" self-snapping="0" type="1" enabled="0" minScale="0" tolerance="12" maxScale="0" scaleDependencyMode="0" mode="2">
+    <individual-layer-settings>
+      <layer-setting units="1" type="1" id="1302_1304_961c5aca_c907_4bfd_a747_f7fd99c52251" enabled="0" minScale="0" tolerance="12" maxScale="0"/>
+    </individual-layer-settings>
+  </snapping-settings>
+  <relations/>
+  <mapcanvas name="theMapCanvas" annotationsVisible="1">
+    <units>meters</units>
+    <extent>
+      <xmin>546875.13151078473310918</xmin>
+      <ymin>4351874.61313886102288961</ymin>
+      <xmax>548255.22757078788708895</xmax>
+      <ymax>4352947.47667891439050436</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <destinationsrs>
+      <spatialrefsys>
+        <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+        <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>3100</srsid>
+        <srid>32616</srid>
+        <authid>EPSG:32616</authid>
+        <description>WGS 84 / UTM zone 16N</description>
+        <projectionacronym>utm</projectionacronym>
+        <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <expressionContextScope/>
+  </mapcanvas>
+  <projectModels/>
+  <legend updateDrawingOrder="true">
+    <legendlayer name="1302_1304" showFeatureCount="0" checked="Qt::Checked" drawingOrder="-1" open="true">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" visible="1" layerid="1302_1304_961c5aca_c907_4bfd_a747_f7fd99c52251"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7" showFeatureCount="0" checked="Qt::Checked" drawingOrder="-1" open="true">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" visible="1" layerid="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7_50a6b7a4_0019_4dfd_90ac_5aecac75c6fb"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6" showFeatureCount="0" checked="Qt::Checked" drawingOrder="-1" open="true">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" visible="1" layerid="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6_f7e6c867_5d22_42fb_ab54_501fb630bfa1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5" showFeatureCount="0" checked="Qt::Checked" drawingOrder="-1" open="true">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" visible="1" layerid="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5_d5eececf_06a2_4d95_a7fd_7e21e4604054"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4" showFeatureCount="0" checked="Qt::Checked" drawingOrder="-1" open="true">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" visible="1" layerid="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4_7d596e09_2d00_471d_8c92_a7c2f7656dd3"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3" showFeatureCount="0" checked="Qt::Checked" drawingOrder="-1" open="true">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" visible="1" layerid="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3_42d2582c_cf1e_48e1_9857_ca91503a7f8f"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2" showFeatureCount="0" checked="Qt::Checked" drawingOrder="-1" open="true">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" visible="1" layerid="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2_64a8c351_3dd9_47fa_9e0c_bc210d768d15"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer name="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1" showFeatureCount="0" checked="Qt::Checked" drawingOrder="-1" open="true">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile isInOverview="0" visible="1" layerid="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1_0aaf6f4b_79d8_4ab1_a4a0_5c6ac11c3531"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <mapViewDocks/>
+  <mapViewDocks3D/>
+  <main-annotation-layer type="annotation" refreshOnNotifyEnabled="0" autoRefreshTime="0" autoRefreshEnabled="0" refreshOnNotifyMessage="">
+    <id>Annotations_b5c419c5_c4ff_4d03_b047_34f6a1d718fa</id>
+    <datasource></datasource>
+    <keywordList>
+      <value></value>
+    </keywordList>
+    <layername>Annotations</layername>
+    <srs>
+      <spatialrefsys>
+        <wkt></wkt>
+        <proj4></proj4>
+        <srsid>0</srsid>
+        <srid>0</srid>
+        <authid></authid>
+        <description></description>
+        <projectionacronym></projectionacronym>
+        <ellipsoidacronym></ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </srs>
+    <resourceMetadata>
+      <identifier></identifier>
+      <parentidentifier></parentidentifier>
+      <language></language>
+      <type></type>
+      <title></title>
+      <abstract></abstract>
+      <links/>
+      <fees></fees>
+      <encoding></encoding>
+      <crs>
+        <spatialrefsys>
+          <wkt></wkt>
+          <proj4></proj4>
+          <srsid>0</srsid>
+          <srid>0</srid>
+          <authid></authid>
+          <description></description>
+          <projectionacronym></projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </crs>
+      <extent/>
+    </resourceMetadata>
+    <items/>
+    <layerOpacity>1</layerOpacity>
+  </main-annotation-layer>
+  <projectlayers>
+    <maplayer styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" simplifyDrawingHints="1" maxScale="0" readOnly="0" minScale="100000000" wkbType="MultiPolygon" simplifyLocal="1" simplifyDrawingTol="1" simplifyMaxScale="1" autoRefreshEnabled="0" refreshOnNotifyMessage="" simplifyAlgorithm="0" geometry="Polygon" labelsEnabled="0" type="vector" autoRefreshTime="0" refreshOnNotifyEnabled="0">
+      <extent>
+        <xmin>547047.85580000001937151</xmin>
+        <ymin>4352044.78270000033080578</ymin>
+        <xmax>547996.12129999976605177</xmax>
+        <ymax>4352775.91899999976158142</ymax>
+      </extent>
+      <id>1302_1304_961c5aca_c907_4bfd_a747_f7fd99c52251</id>
+      <datasource>../1302_1304.shp|layername=1302_1304</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>1302_1304</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["NAD83 / UTM zone 16N",BASEGEOGCRS["NAD83",DATUM["North American Datum 1983",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4269]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["North America - 90°W to 84°W and NAD83 by country"],BBOX[23.97,-90,84,-84]],ID["EPSG",26916]]</wkt>
+          <proj4>+proj=utm +zone=16 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>2293</srsid>
+          <srid>26916</srid>
+          <authid>EPSG:26916</authid>
+          <description>NAD83 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal startField="" durationUnit="min" enabled="0" endField="" accumulate="0" durationField="" startExpression="" endExpression="" fixedDuration="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 enableorderby="0" type="singleSymbol" symbollevels="0" forceraster="0">
+        <symbols>
+          <symbol name="0" type="fill" clip_to_extent="1" force_rhr="0" alpha="1">
+            <layer class="SimpleFill" enabled="1" pass="0" locked="0">
+              <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+              <prop v="183,72,75,255" k="color"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0.26" k="outline_width"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="solid" k="style"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <legend type="default-vector"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field name="OBJECTID" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Id" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Aspect" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="DateMapped" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="HarvestTyp" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Area_ha" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="CenterXcor" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="CenterYcor" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Acres" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Shape_Leng" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Shape_Area" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="OBJECTID"/>
+        <alias index="1" name="" field="Id"/>
+        <alias index="2" name="" field="Aspect"/>
+        <alias index="3" name="" field="DateMapped"/>
+        <alias index="4" name="" field="HarvestTyp"/>
+        <alias index="5" name="" field="Area_ha"/>
+        <alias index="6" name="" field="CenterXcor"/>
+        <alias index="7" name="" field="CenterYcor"/>
+        <alias index="8" name="" field="Acres"/>
+        <alias index="9" name="" field="Shape_Leng"/>
+        <alias index="10" name="" field="Shape_Area"/>
+      </aliases>
+      <defaults>
+        <default applyOnUpdate="0" expression="" field="OBJECTID"/>
+        <default applyOnUpdate="0" expression="" field="Id"/>
+        <default applyOnUpdate="0" expression="" field="Aspect"/>
+        <default applyOnUpdate="0" expression="" field="DateMapped"/>
+        <default applyOnUpdate="0" expression="" field="HarvestTyp"/>
+        <default applyOnUpdate="0" expression="" field="Area_ha"/>
+        <default applyOnUpdate="0" expression="" field="CenterXcor"/>
+        <default applyOnUpdate="0" expression="" field="CenterYcor"/>
+        <default applyOnUpdate="0" expression="" field="Acres"/>
+        <default applyOnUpdate="0" expression="" field="Shape_Leng"/>
+        <default applyOnUpdate="0" expression="" field="Shape_Area"/>
+      </defaults>
+      <constraints>
+        <constraint field="OBJECTID" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="Id" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="Aspect" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="DateMapped" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="HarvestTyp" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="Area_ha" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="CenterXcor" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="CenterYcor" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="Acres" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="Shape_Leng" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+        <constraint field="Shape_Area" notnull_strength="0" constraints="0" unique_strength="0" exp_strength="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint field="OBJECTID" desc="" exp=""/>
+        <constraint field="Id" desc="" exp=""/>
+        <constraint field="Aspect" desc="" exp=""/>
+        <constraint field="DateMapped" desc="" exp=""/>
+        <constraint field="HarvestTyp" desc="" exp=""/>
+        <constraint field="Area_ha" desc="" exp=""/>
+        <constraint field="CenterXcor" desc="" exp=""/>
+        <constraint field="CenterYcor" desc="" exp=""/>
+        <constraint field="Acres" desc="" exp=""/>
+        <constraint field="Shape_Leng" desc="" exp=""/>
+        <constraint field="Shape_Area" desc="" exp=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortOrder="0" actionWidgetStyle="dropDown" sortExpression="">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" type="raster" refreshOnNotifyEnabled="0" autoRefreshTime="0" minScale="1e+08" maxScale="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>546795</xmin>
+        <ymin>4351905</ymin>
+        <xmax>548325</xmax>
+        <ymax>4352925</ymax>
+      </extent>
+      <id>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1_0aaf6f4b_79d8_4ab1_a4a0_5c6ac11c3531</id>
+      <datasource>./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+          <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3100</srsid>
+          <srid>32616</srid>
+          <authid>EPSG:32616</authid>
+          <description>WGS 84 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="1" bandNo="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer opacity="1" type="singlebandgray" nodataColor="" gradient="BlackToWhite" alphaBand="-1" grayBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <contrastEnhancement>
+            <minValue>11148</minValue>
+            <maxValue>13499</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+        <huesaturation colorizeGreen="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255" colorizeBlue="128" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" type="raster" refreshOnNotifyEnabled="0" autoRefreshTime="0" minScale="1e+08" maxScale="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>546795</xmin>
+        <ymin>4351905</ymin>
+        <xmax>548325</xmax>
+        <ymax>4352925</ymax>
+      </extent>
+      <id>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2_64a8c351_3dd9_47fa_9e0c_bc210d768d15</id>
+      <datasource>./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+          <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3100</srsid>
+          <srid>32616</srid>
+          <authid>EPSG:32616</authid>
+          <description>WGS 84 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="1" bandNo="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer opacity="1" type="singlebandgray" nodataColor="" gradient="BlackToWhite" alphaBand="-1" grayBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <contrastEnhancement>
+            <minValue>10095</minValue>
+            <maxValue>12561</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+        <huesaturation colorizeGreen="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255" colorizeBlue="128" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" type="raster" refreshOnNotifyEnabled="0" autoRefreshTime="0" minScale="1e+08" maxScale="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>546795</xmin>
+        <ymin>4351905</ymin>
+        <xmax>548325</xmax>
+        <ymax>4352925</ymax>
+      </extent>
+      <id>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3_42d2582c_cf1e_48e1_9857_ca91503a7f8f</id>
+      <datasource>./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+          <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3100</srsid>
+          <srid>32616</srid>
+          <authid>EPSG:32616</authid>
+          <description>WGS 84 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="1" bandNo="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer opacity="1" type="singlebandgray" nodataColor="" gradient="BlackToWhite" alphaBand="-1" grayBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <contrastEnhancement>
+            <minValue>9059</minValue>
+            <maxValue>11863</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+        <huesaturation colorizeGreen="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255" colorizeBlue="128" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" type="raster" refreshOnNotifyEnabled="0" autoRefreshTime="0" minScale="1e+08" maxScale="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>546795</xmin>
+        <ymin>4351905</ymin>
+        <xmax>548325</xmax>
+        <ymax>4352925</ymax>
+      </extent>
+      <id>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4_7d596e09_2d00_471d_8c92_a7c2f7656dd3</id>
+      <datasource>./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+          <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3100</srsid>
+          <srid>32616</srid>
+          <authid>EPSG:32616</authid>
+          <description>WGS 84 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="1" bandNo="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer opacity="1" type="singlebandgray" nodataColor="" gradient="BlackToWhite" alphaBand="-1" grayBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <contrastEnhancement>
+            <minValue>8058</minValue>
+            <maxValue>10995</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+        <huesaturation colorizeGreen="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255" colorizeBlue="128" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" type="raster" refreshOnNotifyEnabled="0" autoRefreshTime="0" minScale="1e+08" maxScale="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>546795</xmin>
+        <ymin>4351905</ymin>
+        <xmax>548325</xmax>
+        <ymax>4352925</ymax>
+      </extent>
+      <id>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5_d5eececf_06a2_4d95_a7fd_7e21e4604054</id>
+      <datasource>./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+          <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3100</srsid>
+          <srid>32616</srid>
+          <authid>EPSG:32616</authid>
+          <description>WGS 84 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="1" bandNo="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer opacity="1" type="singlebandgray" nodataColor="" gradient="BlackToWhite" alphaBand="-1" grayBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <contrastEnhancement>
+            <minValue>16889</minValue>
+            <maxValue>28198</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+        <huesaturation colorizeGreen="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255" colorizeBlue="128" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" type="raster" refreshOnNotifyEnabled="0" autoRefreshTime="0" minScale="1e+08" maxScale="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>546795</xmin>
+        <ymin>4351905</ymin>
+        <xmax>548325</xmax>
+        <ymax>4352925</ymax>
+      </extent>
+      <id>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6_f7e6c867_5d22_42fb_ab54_501fb630bfa1</id>
+      <datasource>./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+          <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3100</srsid>
+          <srid>32616</srid>
+          <authid>EPSG:32616</authid>
+          <description>WGS 84 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="1" bandNo="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer opacity="1" type="singlebandgray" nodataColor="" gradient="BlackToWhite" alphaBand="-1" grayBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <contrastEnhancement>
+            <minValue>10045</minValue>
+            <maxValue>14970</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+        <huesaturation colorizeGreen="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255" colorizeBlue="128" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer styleCategories="AllStyleCategories" type="raster" refreshOnNotifyEnabled="0" autoRefreshTime="0" minScale="1e+08" maxScale="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>546795</xmin>
+        <ymin>4351905</ymin>
+        <xmax>548325</xmax>
+        <ymax>4352925</ymax>
+      </extent>
+      <id>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7_50a6b7a4_0019_4dfd_90ac_5aecac75c6fb</id>
+      <datasource>./clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+          <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3100</srsid>
+          <srid>32616</srid>
+          <authid>EPSG:32616</authid>
+          <description>WGS 84 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList useSrcNoData="1" bandNo="1"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal enabled="0" fetchMode="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <pipe>
+        <provider>
+          <resampling zoomedInResamplingMethod="nearestNeighbour" enabled="false" zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+        </provider>
+        <rasterrenderer opacity="1" type="singlebandgray" nodataColor="" gradient="BlackToWhite" alphaBand="-1" grayBand="1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>MinMax</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+          <contrastEnhancement>
+            <minValue>7661</minValue>
+            <maxValue>10234</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+        <huesaturation colorizeGreen="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255" colorizeBlue="128" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+        <resamplingStage>resamplingFilter</resamplingStage>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <layerorder>
+    <layer id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B1_0aaf6f4b_79d8_4ab1_a4a0_5c6ac11c3531"/>
+    <layer id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B2_64a8c351_3dd9_47fa_9e0c_bc210d768d15"/>
+    <layer id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B3_42d2582c_cf1e_48e1_9857_ca91503a7f8f"/>
+    <layer id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B4_7d596e09_2d00_471d_8c92_a7c2f7656dd3"/>
+    <layer id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B5_d5eececf_06a2_4d95_a7fd_7e21e4604054"/>
+    <layer id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B6_f7e6c867_5d22_42fb_ab54_501fb630bfa1"/>
+    <layer id="clearcut_LC08_L1TP_021033_20140605_20170305_01_T1_B7_50a6b7a4_0019_4dfd_90ac_5aecac75c6fb"/>
+    <layer id="1302_1304_961c5aca_c907_4bfd_a747_f7fd99c52251"/>
+  </layerorder>
+  <properties>
+    <Digitizing>
+      <AvoidIntersectionsMode type="int">0</AvoidIntersectionsMode>
+    </Digitizing>
+    <Gui>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+    </Gui>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+    <Measure>
+      <Ellipsoid type="QString">EPSG:7030</Ellipsoid>
+    </Measure>
+    <Measurement>
+      <AreaUnits type="QString">m2</AreaUnits>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+    </Measurement>
+    <PAL>
+      <CandidatesLinePerCM type="double">5</CandidatesLinePerCM>
+      <CandidatesPolygonPerCM type="double">2.5</CandidatesPolygonPerCM>
+      <DrawRectOnly type="bool">false</DrawRectOnly>
+      <DrawUnplaced type="bool">false</DrawUnplaced>
+      <PlacementEngineVersion type="int">1</PlacementEngineVersion>
+      <SearchMethod type="int">0</SearchMethod>
+      <ShowingAllLabels type="bool">false</ShowingAllLabels>
+      <ShowingCandidates type="bool">false</ShowingCandidates>
+      <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
+      <TextFormat type="int">0</TextFormat>
+      <UnplacedColor type="QString">255,0,0,255</UnplacedColor>
+    </PAL>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <PositionPrecision>
+      <Automatic type="bool">true</Automatic>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+    </PositionPrecision>
+    <SemiAutomaticClassificationPlugin>
+      <bandSetsList type="QString">[['Yes', 0, 7, ['LC08_L1TP_021033_20140605_20170305_01_T1_B1', 'LC08_L1TP_021033_20140605_20170305_01_T1_B2', 'LC08_L1TP_021033_20140605_20170305_01_T1_B3', 'LC08_L1TP_021033_20140605_20170305_01_T1_B4', 'LC08_L1TP_021033_20140605_20170305_01_T1_B5', 'LC08_L1TP_021033_20140605_20170305_01_T1_B6', 'LC08_L1TP_021033_20140605_20170305_01_T1_B7'], [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0], 'E-6m', [[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]], 'Band set 0', '', '']]</bandSetsList>
+      <bndSetNumber type="QString">0</bndSetNumber>
+    </SemiAutomaticClassificationPlugin>
+    <SpatialRefSys>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+  </properties>
+  <dataDefinedServerProperties>
+    <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+    </Option>
+  </dataDefinedServerProperties>
+  <visibility-presets/>
+  <transformContext>
+    <srcDest allowFallback="1" coordinateOp="+proj=pipeline +step +inv +proj=utm +zone=16 +ellps=GRS80 +step +proj=utm +zone=16 +ellps=WGS84">
+      <src>
+        <spatialrefsys>
+          <wkt>PROJCRS["NAD83 / UTM zone 16N",BASEGEOGCRS["NAD83",DATUM["North American Datum 1983",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4269]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["North America - 90°W to 84°W and NAD83 by country"],BBOX[23.97,-90,84,-84]],ID["EPSG",26916]]</wkt>
+          <proj4>+proj=utm +zone=16 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>2293</srsid>
+          <srid>26916</srid>
+          <authid>EPSG:26916</authid>
+          <description>NAD83 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </src>
+      <dest>
+        <spatialrefsys>
+          <wkt>PROJCRS["WGS 84 / UTM zone 16N",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 16N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-87,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["World - N hemisphere - 90°W to 84°W - by country"],BBOX[0,-90,84,-84]],ID["EPSG",32616]]</wkt>
+          <proj4>+proj=utm +zone=16 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3100</srsid>
+          <srid>32616</srid>
+          <authid>EPSG:32616</authid>
+          <description>WGS 84 / UTM zone 16N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </dest>
+    </srcDest>
+  </transformContext>
+  <projectMetadata>
+    <identifier></identifier>
+    <parentidentifier></parentidentifier>
+    <language></language>
+    <type></type>
+    <title></title>
+    <abstract></abstract>
+    <links/>
+    <author>Gwendolyn</author>
+    <creation>2021-07-11T17:39:56</creation>
+  </projectMetadata>
+  <Annotations/>
+  <Layouts/>
+  <Bookmarks/>
+  <ProjectViewSettings UseProjectScales="0">
+    <Scales/>
+  </ProjectViewSettings>
+  <ProjectTimeSettings frameRate="1" timeStep="1" cumulativeTemporalRange="0" timeStepUnit="h"/>
+  <ProjectDisplaySettings>
+    <BearingFormat id="bearing">
+      <Option type="Map">
+        <Option name="decimal_separator" type="QChar" value=""/>
+        <Option name="decimals" type="int" value="6"/>
+        <Option name="direction_format" type="int" value="0"/>
+        <Option name="rounding_type" type="int" value="0"/>
+        <Option name="show_plus" type="bool" value="false"/>
+        <Option name="show_thousand_separator" type="bool" value="true"/>
+        <Option name="show_trailing_zeros" type="bool" value="false"/>
+        <Option name="thousand_separator" type="QChar" value=""/>
+      </Option>
+    </BearingFormat>
+  </ProjectDisplaySettings>
+</qgis>
